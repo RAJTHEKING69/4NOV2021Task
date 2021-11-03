@@ -1,0 +1,8 @@
+.container{
+    box-sizing: border-box;
+}
+
+.change{
+    background-color: rgba(59, 63, 59, 0.137);
+    border-radius: 10px;
+}
